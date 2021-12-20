@@ -1,6 +1,6 @@
 - 👋 Hi, Diego Freitas
 - 👀 I’m interested in Games, Programming, Microcontrollers, Emulation
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning about Blockchain, Docker and Neural Networks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
